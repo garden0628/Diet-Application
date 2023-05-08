@@ -1,5 +1,5 @@
 # Care Diet!
-<img src="Application_picture.png"></img>
+<img src="app/src/main/res/drawable/application_picture.png"></img>
 - Application : https://github.com/garden0628/Diet-Application <br />
 - Flask-Server : https://github.com/garden0628/Diet-Application-Server <br />
 - Notion : https://www.notion.so/Care-Diet-Application-60c63c0f7a3049fa814baddc28c47b89?pvs=4 <br />

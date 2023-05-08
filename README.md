@@ -14,7 +14,7 @@ This is an android application for record food list for care diet.
 
 ## Development Period
 2022 May ~ 2022 June
-<br />
+<br /><br />
 
 ## Development Environment
 - Android Studio (Java)
